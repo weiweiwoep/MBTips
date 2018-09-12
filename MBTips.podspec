@@ -17,8 +17,7 @@ APP 内用到的顶部用户提示。
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'MebCordova/Classes/**/*.{h,m}'
-  s.resources    = 'MebCordova/Assets/**'
-  s.public_header_files = 'MebCordova/Classes/**/*.h'
+  s.source_files = 'MBTips/Classes/**/*.{h,m}'
+  s.public_header_files = 'MBTips/Classes/**/*.h'
 
 end

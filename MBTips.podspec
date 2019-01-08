@@ -6,9 +6,9 @@ Pod::Spec.new do |s|
   #添加第三方依赖
   s.dependency 'QMUIKit'
 
-  s.description      = <<-DESC
-APP 内用到的顶部用户提示。1.更改库最底目标库版本号为9.1
-                       DESC
+  <<-DESC
+  APP 内用到的顶部用户提示。1.更改库最底目标库版本号为9.1
+  DESC
 
   s.homepage         = 'https://github.com/titer18/MBTips'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }

@@ -1,0 +1,1 @@
+../../../../../MBTips/Classes/MBTips.h

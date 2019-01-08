@@ -1,0 +1,28 @@
+{
+  "name": "MBTips",
+  "version": "1.0",
+  "summary": "APP 内顶部信息提示",
+  "dependencies": {
+    "QMUIKit": [
+
+    ]
+  },
+  "description": "APP 内用到的顶部用户提示。",
+  "homepage": "https://github.com/titer18/MBTips",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "titer": "zhaohong1991@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/titer18/MBTips.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MBTips/Classes/**/*.{h,m}",
+  "public_header_files": "MBTips/Classes/**/*.h"
+}

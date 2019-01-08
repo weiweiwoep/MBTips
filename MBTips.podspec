@@ -15,7 +15,7 @@ APP 内用到的顶部用户提示。
   s.author           = { 'titer' => 'zhaohong1991@hotmail.com' }
   s.source           = { :git => 'https://github.com/titer18/MBTips.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '9.1'
 
   s.source_files = 'MBTips/Classes/**/*.{h,m}'
   s.public_header_files = 'MBTips/Classes/**/*.h'
